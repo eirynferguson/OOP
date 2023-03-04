@@ -1,0 +1,3 @@
+C:\UNI\1st Year\Semester B\OOP\Assessment 1\CMP1903M A01 2223\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.csproj.AssemblyReference.cache
+C:\UNI\1st Year\Semester B\OOP\Assessment 1\CMP1903M A01 2223\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.csproj.SuggestedBindingRedirects.cache
+C:\UNI\1st Year\Semester B\OOP\Assessment 1\CMP1903M A01 2223\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.csproj.CoreCompileInputs.cache
