@@ -13,7 +13,7 @@ namespace CMP1903M_A01_2223
             Console.WriteLine("Called") //tests to see if class has been called correctly.
 
             bool run = true;
-            while (run = true)
+            while (run == true)
             {
             //call main classes to run
 
