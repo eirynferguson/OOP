@@ -10,7 +10,7 @@ namespace CMP1903M_A01_2223
     {
         public static void userTest()
         {
-            Console.WriteLine("Called") //tests to see if class has been called correctly.
+            Console.WriteLine("Called"); //tests to see if class has been called correctly.
 
             bool run = true;
             while (run == true)
@@ -25,20 +25,20 @@ namespace CMP1903M_A01_2223
                     Pack.shuffleCardPack();       
                 }
 
-			    if (choice == 2)
-			    {
+		if (choice == 2)
+		{
                     Pack.deal();
                 }
 
-			    if (choice == 3)
-			    {
+		if (choice == 3)
+		{
                     Pack.dealCard();
                 }
 
-			    if (choice == 4)
-			    {
+		if (choice == 4)
+		{
                     run = false;   //Ends program by stopping while loop.
-			    }
+		}
             }   
         }
     }
