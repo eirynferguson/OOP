@@ -27,7 +27,7 @@ namespace CMP1903M_A01_2223
             {
                 //random shuffle
                 Random rnd = new Random(); 
-                int cardShuffle = rnd.Next(1, 53)
+                int cardShuffle = rnd.Next(1, 53);
 
                 Console.WriteLine("Cards have been shuffled");
                 return cardShuffle;
@@ -40,7 +40,7 @@ namespace CMP1903M_A01_2223
                 int deck1 = rnd.Next(1, (Pack.cardNum / 2));
                 int deck2 = rnd.Next(1, (Pack.cardNum / 2));
                 
-                string fullDeck = deck1.ToString(); + deck2.ToString(); ;  //combines both randomised values.
+                string fullDeck = deck1.ToString(); + deck2.ToString();  //combines both randomised values.
                
 
                 Console.WriteLine("Cards have been shuffled");
